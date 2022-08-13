@@ -11,7 +11,7 @@ Console.WriteLine("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 string str = Convert.ToString(number);
 int lenght = str.Length;
-for(int i = 1; i <= str.Length; i++ )
+for(int i = 1; i < str.Length; i++ )
 {
      if(2 < str.Length)
     {
