@@ -9,12 +9,16 @@
 
 Console.WriteLine("Введите число дня недели: ");
 int dayWeek = Convert.ToInt32(Console.ReadLine());
-if(6 == dayWeek || dayWeek == 7)
-    {
-        Console.WriteLine("Да."); 
-    }
-     else
-     {
-        Console.WriteLine("Нет.");
+if (dayWeek < 1 || dayWeek > 7)
+{
+    Console.WriteLine("Введите число дня недели снова: ");
 
-     }
+}
+else if(6 == dayWeek || dayWeek == 7)
+{
+    Console.WriteLine("Да."); 
+}
+else 
+{
+    Console.WriteLine("Нет.");
+}
