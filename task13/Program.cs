@@ -24,7 +24,5 @@ for(int i = 1; i < str.Length; i++ )
         Console.Write("Третьей цифры нет.");
         break;
     }
-   
-    
 }
 
