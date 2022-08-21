@@ -6,10 +6,10 @@
 */
 
 Console.WriteLine("Введите число: ");
-int number = Convert.ToInt32(Console.ReadLine());
 
 void SumDigits()
 {
+    int number = Convert.ToInt32(Console.ReadLine());
     string str = Convert.ToString(number);
     int sum = 0;
     for (int i = 0; i < str.Length; i++)
