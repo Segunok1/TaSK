@@ -13,14 +13,12 @@ void SumNonEvenIndexes()
         array[i] = new Random().Next(0,100);
         Console.Write(array[i] + " ");
     }
-    int count = 0;
     int sum = 0;
     for (int i = 1; i < array.Length; i++)
     {    
         if (i % 2 != 0)
         {
             sum += array[i];
-            count ++;
         }
     }
     Console.WriteLine("\nСумма элементов, стоящих на нечётных позициях: " + sum);
