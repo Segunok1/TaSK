@@ -11,7 +11,8 @@ void NumOfPositiveNum()
     string[] str = Console.ReadLine().Split(",");
     int[] array = new int[str.Length];
     for (int i = 0; i < array.Length; i++) array[i] = Convert.ToInt32(str[i].ToString());
-    for (int i = 0; i < array.Length; i++) if (array[i] > 0)  k++;
+    for (int i = 0; i < array.Length; i++) 
+        if (array[i] > 0)  k++;
         Console.WriteLine("Количество чётных чисел в массиве: " + k);
 }
 
