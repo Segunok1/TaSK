@@ -10,13 +10,15 @@
 
 void SumElementsMainDiagonal()
 {
+    int min = Convert.ToInt32(Console.ReadLine());
+    int max = Convert.ToInt32(Console.ReadLine());
     int sum = 0;
     int[,] array = new int[3, 4];
     for (int i = 0; i < array.GetLength(0); i++)
     {
         for (int j = 0; j < array.GetLength(1); j++)
         {
-            array[i, j] = new Random().Next(-10, 10);
+            array[i, j] = new Random().Next(min, max);
             Console.Write(array[i, j] + " ");
             if (i == j)
             {
@@ -29,4 +31,5 @@ void SumElementsMainDiagonal()
 }
 
 
+Console.WriteLine("Введите двумерный массив со случайными числами от min до max.: ");
 SumElementsMainDiagonal();
