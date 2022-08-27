@@ -20,10 +20,7 @@ void SumElementsMainDiagonal()
         {
             array[i, j] = new Random().Next(min, max);
             Console.Write(array[i, j] + " ");
-            if (i == j)
-            {
-                sum += array[i, j];
-            }
+            if (i == j) sum += array[i, j];
         }
         Console.WriteLine();
     }
