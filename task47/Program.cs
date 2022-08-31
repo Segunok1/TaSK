@@ -33,8 +33,9 @@ void PrintArray(double[,] array)
 
 
 
-Console.WriteLine("Задайте двумерный массив размером m на n:" );
+Console.WriteLine("Задайте строки двумерного массива m: " );
 int m = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Задайте столбцы двумерного массива n: " );
 int n = Convert.ToInt32(Console.ReadLine());
 double[,] array = new double[m, n];
 TwoDimensionalArray(array);
