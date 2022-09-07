@@ -15,7 +15,8 @@ int m = Convert.ToInt32(Console.ReadLine());
 Console.Write("Задайте столбцы двумерного массива n: ");
 int n = Convert.ToInt32(Console.ReadLine());
 int[,] myArray = new int[m, n];
-
+Console.WriteLine();
+Console.WriteLine("Массив до изменения");
 int[,] GenerateArray(int[,] myArra)
 {
     Random random = new Random();
