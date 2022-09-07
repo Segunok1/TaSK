@@ -9,7 +9,7 @@
 с наименьшей суммой элементов: 1 строка
 */
 
-int[,] myArray = new int[4, 4];
+int[,] myArray = new int[3, 3];
 Console.WriteLine();
 
 int[,] GenerateArray(int[,] myArra)
@@ -40,26 +40,26 @@ void PrintArray(int[,] my)
 void MinRow(int[,] myArray)
 {
     int minRow = 0;
-    int minSumRow = 0;
-    int sumRow = 0;
+    int iMin = 0;
+
     for (int i = 0; i < myArray.GetLength(1); i++)
     {
         minRow += myArray[0, i];
     }
     for (int i = 0; i < myArray.GetLength(0); i++)
     {
+        int sum = 0;
         for (int j = 0; j < myArray.GetLength(1); j++)
+            sum += myArray[i, j];
+
+        if (sum < minRow)
         {
-            sumRow += myArray[i, j];
+            minRow = sum;
+            iMin = i;
         }
-        if (sumRow < minRow)
-        {
-            minRow = sumRow;
-            minSumRow = i;
-        }
-        sumRow = 0;
     }
-    Console.Write($"Строка с наименьшей суммой элементов: {minSumRow + 1} строка");
+
+    Console.Write($"Строка с наименьшей суммой элементов: {iMin + 1}");
 }
 
 GenerateArray(myArray);
