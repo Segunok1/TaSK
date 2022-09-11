@@ -9,7 +9,11 @@
 с наименьшей суммой элементов: 1 строка
 */
 
-int[,] myArray = new int[3, 3];
+Console.Write("Задайте строки двумерного массива m: ");
+int m = Convert.ToInt32(Console.ReadLine());
+Console.Write("Задайте столбцы двумерного массива n: ");
+int n = Convert.ToInt32(Console.ReadLine());
+int[,] myArray = new int[m, n];
 Console.WriteLine();
 
 int[,] GenerateArray(int[,] myArra)
