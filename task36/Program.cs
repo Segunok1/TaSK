@@ -26,5 +26,5 @@ void SumNonEvenIndexes()
 
 
 
-Console.WriteLine("Введите число длинны массива: ");
+
 SumNonEvenIndexes();

@@ -8,6 +8,7 @@
 Сумма элементов главной диагонали: 1+9+2 = 12
 */
 
+
 void SumElementsMainDiagonal()
 {
     int min = Convert.ToInt32(Console.ReadLine());
@@ -24,7 +25,7 @@ void SumElementsMainDiagonal()
         }
         Console.WriteLine();
     }
-    Console.WriteLine($"Сумма элементов главной диагонали: {array[0, 0]} + {array[1, 1]} + {array[2, 2]} = {sum}");
+    
 }
 
 
