@@ -1,0 +1,15 @@
+C:\Users\jubah\OneDrive\Рабочий стол\fack\gfy\obj\Debug\net6.0\gfy.csproj.AssemblyReference.cache
+C:\Users\jubah\OneDrive\Рабочий стол\fack\gfy\obj\Debug\net6.0\gfy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jubah\OneDrive\Рабочий стол\fack\gfy\obj\Debug\net6.0\gfy.AssemblyInfoInputs.cache
+C:\Users\jubah\OneDrive\Рабочий стол\fack\gfy\obj\Debug\net6.0\gfy.AssemblyInfo.cs
+C:\Users\jubah\OneDrive\Рабочий стол\fack\gfy\obj\Debug\net6.0\gfy.csproj.CoreCompileInputs.cache
+C:\Users\jubah\OneDrive\Рабочий стол\fack\gfy\bin\Debug\net6.0\gfy.exe
+C:\Users\jubah\OneDrive\Рабочий стол\fack\gfy\bin\Debug\net6.0\gfy.deps.json
+C:\Users\jubah\OneDrive\Рабочий стол\fack\gfy\bin\Debug\net6.0\gfy.runtimeconfig.json
+C:\Users\jubah\OneDrive\Рабочий стол\fack\gfy\bin\Debug\net6.0\gfy.dll
+C:\Users\jubah\OneDrive\Рабочий стол\fack\gfy\bin\Debug\net6.0\gfy.pdb
+C:\Users\jubah\OneDrive\Рабочий стол\fack\gfy\obj\Debug\net6.0\gfy.dll
+C:\Users\jubah\OneDrive\Рабочий стол\fack\gfy\obj\Debug\net6.0\refint\gfy.dll
+C:\Users\jubah\OneDrive\Рабочий стол\fack\gfy\obj\Debug\net6.0\gfy.pdb
+C:\Users\jubah\OneDrive\Рабочий стол\fack\gfy\obj\Debug\net6.0\gfy.genruntimeconfig.cache
+C:\Users\jubah\OneDrive\Рабочий стол\fack\gfy\obj\Debug\net6.0\ref\gfy.dll
