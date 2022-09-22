@@ -1,0 +1,15 @@
+C:\Users\jubah\OneDrive\Рабочий стол\fack\TaSK\tasl68\bin\Debug\net6.0\tasl68.exe
+C:\Users\jubah\OneDrive\Рабочий стол\fack\TaSK\tasl68\bin\Debug\net6.0\tasl68.deps.json
+C:\Users\jubah\OneDrive\Рабочий стол\fack\TaSK\tasl68\bin\Debug\net6.0\tasl68.runtimeconfig.json
+C:\Users\jubah\OneDrive\Рабочий стол\fack\TaSK\tasl68\bin\Debug\net6.0\tasl68.dll
+C:\Users\jubah\OneDrive\Рабочий стол\fack\TaSK\tasl68\bin\Debug\net6.0\tasl68.pdb
+C:\Users\jubah\OneDrive\Рабочий стол\fack\TaSK\tasl68\obj\Debug\net6.0\tasl68.csproj.AssemblyReference.cache
+C:\Users\jubah\OneDrive\Рабочий стол\fack\TaSK\tasl68\obj\Debug\net6.0\tasl68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jubah\OneDrive\Рабочий стол\fack\TaSK\tasl68\obj\Debug\net6.0\tasl68.AssemblyInfoInputs.cache
+C:\Users\jubah\OneDrive\Рабочий стол\fack\TaSK\tasl68\obj\Debug\net6.0\tasl68.AssemblyInfo.cs
+C:\Users\jubah\OneDrive\Рабочий стол\fack\TaSK\tasl68\obj\Debug\net6.0\tasl68.csproj.CoreCompileInputs.cache
+C:\Users\jubah\OneDrive\Рабочий стол\fack\TaSK\tasl68\obj\Debug\net6.0\tasl68.dll
+C:\Users\jubah\OneDrive\Рабочий стол\fack\TaSK\tasl68\obj\Debug\net6.0\refint\tasl68.dll
+C:\Users\jubah\OneDrive\Рабочий стол\fack\TaSK\tasl68\obj\Debug\net6.0\tasl68.pdb
+C:\Users\jubah\OneDrive\Рабочий стол\fack\TaSK\tasl68\obj\Debug\net6.0\tasl68.genruntimeconfig.cache
+C:\Users\jubah\OneDrive\Рабочий стол\fack\TaSK\tasl68\obj\Debug\net6.0\ref\tasl68.dll

@@ -1,0 +1,5 @@
+C:\Users\jubah\OneDrive\Рабочий стол\fack\TaSK\obj\Debug\net6.0\TaSK.csproj.AssemblyReference.cache
+C:\Users\jubah\OneDrive\Рабочий стол\fack\TaSK\obj\Debug\net6.0\TaSK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jubah\OneDrive\Рабочий стол\fack\TaSK\obj\Debug\net6.0\TaSK.AssemblyInfoInputs.cache
+C:\Users\jubah\OneDrive\Рабочий стол\fack\TaSK\obj\Debug\net6.0\TaSK.AssemblyInfo.cs
+C:\Users\jubah\OneDrive\Рабочий стол\fack\TaSK\obj\Debug\net6.0\TaSK.csproj.CoreCompileInputs.cache
