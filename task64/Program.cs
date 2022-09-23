@@ -3,13 +3,6 @@ M = 1; N = 5. -> ""1, 2, 3, 4, 5""
 M = 4; N = 8. -> ""4, 6, 7, 8""
 */
 
-Console.Write("Введите число M: ");
-int m = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите число N: ");
-int n = Convert.ToInt32(Console.ReadLine());
-NumsMN(m, n);
-PrintNumMN(m, n);
-
 void PrintNumMN(int m, int n)
 {
     if (m == n)
@@ -29,3 +22,9 @@ string NumsMN(int m, int n)
         return "" + m.ToString() + ", " + NumsMN(++m, n);
 }
 
+Console.Write("Введите число M: ");
+int m = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите число N: ");
+int n = Convert.ToInt32(Console.ReadLine());
+NumsMN(m, n);
+PrintNumMN(m, n);
